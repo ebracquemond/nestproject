@@ -1,6 +1,9 @@
 #IDE conf
 .vscode
 
+# ENV
+*.env
+
 # compiled output
 /dist
 /node_modules
